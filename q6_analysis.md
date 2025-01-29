@@ -1,0 +1,7 @@
+- We compared Selection Sort, Bubble Sort, and Merge Sort on 5 randomly generated vehicles.
+- The time taken to sort the vehicles was measured for each algorithm.
+- Selection Sort and Bubble Sort were slower than Merge Sort.
+- Merge Sort is faster because it divides the data into smaller parts and sorts them more efficiently.
+- Selection Sort and Bubble Sort are slower because they repeatedly check and swap elements in the list.
+- For small datasets (like 5 vehicles), the difference in performance isn't huge, but for larger datasets, Merge Sort is much better.
+- The experiment shows that for larger lists, Merge Sort will be much faster than the other two algorithms.
